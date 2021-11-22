@@ -7,8 +7,8 @@
 ### HTML
 - Em breve
   
-### CSS
-- Em breve
+### CSS ([Clique aqui para acessar playlist](https://www.youtube.com/playlist?list=PL28O_hEAqjAtFzEBAfaPZuV8l5uC8mNAp))
+- [position absolute e relative](https://youtu.be/lRNiaInU-U4)
 
 ### Javascript ([Clique aqui para acessar playlist](https://www.youtube.com/playlist?list=PL28O_hEAqjAuiCHIXajqUqzah-it5c1PK))
 - [parseInt e Number()](https://youtu.be/TMIMPSyCs48)

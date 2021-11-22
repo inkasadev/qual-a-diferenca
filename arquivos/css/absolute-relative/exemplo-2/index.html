@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Absolute vs Relative</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .filho {
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+    <div class="pai">
+        <h1>position: absolute</h1>
+        <p>O elemento será posicionado relativo ao seu ancestral mais próximo com o posicionamento diferente de <i>static</i>. </p>
+        <div class="filho"></div>
+        <p>Elementos com posicionamento absolute são removidos do fluxo normal do documento.</p>
+    </div>
+</body>
+</html>
