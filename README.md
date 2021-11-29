@@ -4,8 +4,8 @@
 
 ## Aprenda qual a diferença entre...
 
-### HTML
-- Em breve
+### HTML ([Clique aqui para acessar playlist](https://www.youtube.com/playlist?list=PL28O_hEAqjAsVLqxYCdEqMnnr-ehi6duk))
+- [section e div](https://youtu.be/5JRce5TAcy4)
   
 ### CSS ([Clique aqui para acessar playlist](https://www.youtube.com/playlist?list=PL28O_hEAqjAtFzEBAfaPZuV8l5uC8mNAp))
 - [position absolute e relative](https://youtu.be/lRNiaInU-U4)

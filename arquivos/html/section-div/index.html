@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>div vs section</title>
+</head>
+<body>
+    <h1>A tag <code>&lt;section&gt;</code></h1>
+    <p>O elemento HTML <code>&lt;section&gt;</code> representa uma seção genérica contida em uma página HTML, geralmente com um título, quando não existe um elemento semântico mais específico para representá-lo.</p>
+    <h2>Exemplos:</h2>
+    
+    <!-- Exemplo 1 -->
+    <section class="newsletter">
+        <h1>Inscreva-se em nossa Newsletter</h1>
+        <form> <!-- ... --> </form>
+    </section>
+
+    <!-- Exemplo 2 -->
+    <section>
+        <h2>Historia do Brasil</h2>
+        <p><!-- ... --></p>
+    </section>
+
+    <section>
+        <h2>Historia da bandeira do Brasil</h2>
+        <p><!-- ... --></p>
+    </section>
+    
+    <!-- Exemplo 3 (Estrutura básica de um section) -->
+    <section>
+        <h1>Cabeçalho</h1>
+        <p>Conteúdo</p>
+    </section>
+
+    <h1>A tag <code>&lt;div&gt;</code></h1>
+    <p>O elemento de divisão HTML <div> é um container genérico para conteúdo, que de certa forma não representa nada. Ele pode ser utilizado para agrupar elementos para fins de estilização (usando class ou id), ou porque eles compartilham valores de atributos, como lang por exemplo.</p>
+    <h2>Exemplo:</h2>
+
+    <div class="modal-container">
+        <section class="modal">
+          <h1>Cabeçalho</h1>
+          <p>Conteúdo</p>
+        </section>
+    </div>
+
+    <!-- Exemplo 2 (Estrutura básica de uma div) -->
+    <div>
+        <p>Conteúdo</p>
+    </div>
+</body>
+</html>
